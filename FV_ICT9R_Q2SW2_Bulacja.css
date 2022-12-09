@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka One');
+@import url('https://fonts.googleapis.com/css?family=Carter One');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+body {
+	background-image: url(catbg.jpg);
+	background-size: 100%;
+	font-family: Fredoka One;
+	margin:50px;
+}
+
+#breeds {
+	background-color: #dcd0ff;
+	text-align: center;
+	font-family: Pacifico;
+	font-size: 40px;
+}
+
+#div1 {
+	background-color: #e6e8fa;
+}
+
+div {
+	margin: 10px;
+}
+
+td, th {
+	padding: 10px;
+}
+
+th {
+	font-family: Carter One;
+}
+
+img {
+	height: 50%;
+	width: 50%;
+}
+
+p {
+	font-size: 10px;
+	color: #adadad;
+	font-family: Fredoka One;
+}
+table, th, td {
+        border: 3px solid #bc8e52;
+        border-collapse: collapse;
+        }
+        th, td {
+        padding: 50px;
+        color:;
+        }
+        th{
+          background-color:#dec8ab;
+}
+#cat {
+      	height:150px;
+      	width:200px;
+         }
